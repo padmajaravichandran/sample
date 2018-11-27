@@ -1,2 +1,2 @@
 # sample
-sample_repo
+sample_repo for git commands
